@@ -64,4 +64,7 @@ export default {
     margin-left: auto;
     color: #de4343;
   }
+  .removeBtn i{
+    line-height: 45px;
+  }
 </style>
